@@ -18,7 +18,6 @@ Small blog created with python and django
 ![](https://github.com/innacroft/Django_girls_blog/blob/master/mysite/static/images/createpost.PNG)
 
 ------------
-
 #### Author
 Innacroft
 [Link to My portfolio](https://innacroft.github.io/portfolio/)<br>
