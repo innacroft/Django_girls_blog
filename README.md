@@ -1,4 +1,4 @@
-### Intro WEBPage
+### Django Blog
 🦄 🐍
 
 #### Description
@@ -12,10 +12,10 @@ Small blog created with python and django
 - CSS
 
 ### Feed
-![](https://github.com/innacroft/Django_girls_blog/blob/master/mysite/static/images/blog.png)
+![](https://github.com/innacroft/Django_girls_blog/blob/master/mysite/static/images/blog.PNG)
 
 ### New post
-![](https://github.com/innacroft/Django_girls_blog/blob/master/mysite/static/images/createpost.png)
+![](https://github.com/innacroft/Django_girls_blog/blob/master/mysite/static/images/createpost.PNG)
 
 ------------
 
